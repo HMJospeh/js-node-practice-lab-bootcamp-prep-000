@@ -10,7 +10,7 @@ First things first, let's run the code we are given. That should always be your 
 Name:
 Joe
 Height:
-74
+74 
 ```
 
 Look familiar? Open up the `index.js` file and take a look. No HTML here, but you can see some basic things. The first two lines of code are below:
